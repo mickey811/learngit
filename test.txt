@@ -3,4 +3,4 @@ Add a 2nd line.
 Add a 3nd line.
 Add a 4th line.
 Add a 5th line.
-Dev BRANCH is qucik & simple
+Dev BRANCH is quick & simple
